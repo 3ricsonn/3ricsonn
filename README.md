@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @3ricsonn
 - 👀 I’m interested in python
 - 🌱 I’m currently learning pygame
-<!-- 💞️ I’m looking to collaborate on ...->
+<!--- 💞️ I’m looking to collaborate on ...--->
 - 📫 How to reach me ...
 
 <!---
