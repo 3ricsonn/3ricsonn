@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @3ricsonn
 - 👀 I’m interested in python
-- 🌱 I’m currently learning pygame
+- 🌱 I’m currently learning tkinter
 <!--- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...--->
 
