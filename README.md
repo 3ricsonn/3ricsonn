@@ -1,4 +1,4 @@
-### Hello fellow Developer, I'm *3ricsonn* <!--(https://3ricsonn.github.io/)--> 👋
+### Hello fellow Developer, I'm [*3ricsonn*](https://3ricsonn.github.io/) 👋
 
 ![-----------------------------------------------------](assets/rainbow.png)
 
