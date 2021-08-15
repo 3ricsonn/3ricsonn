@@ -22,4 +22,4 @@
 
 ![-----------------------------------------------------](assets/rainbow.png)
 
-![3ricsonn's GitHub stats](https://github-readme-stats.vercel.app/api?username=3ricsonn&show_icons=true&theme=tokyonight)
+![3ricsonn's GitHub stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=3ricsonn&show_icons=true&theme=tokyonight)
