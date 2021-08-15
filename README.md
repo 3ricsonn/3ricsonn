@@ -9,13 +9,16 @@
  - 🥅 My Goals for 2021 are to contribute more to open source projecte
 
 <br />
-<!--
-### Languages and Tools:
+
+### My preferred OS: <code><img alt="Linux" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+
+### Languages I have learned:
 <code><img alt="Python" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img alt="Terminal" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+### Tools I use:
 <code><img alt="Git" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img alt="GitHub" width="26" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
--->
+
 
 ![-----------------------------------------------------](assets/rainbow.png)
 
