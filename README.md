@@ -3,8 +3,8 @@
 ![-----------------------------------------------------](assets/rainbow.png)
 
 #### Although I’m still a student, I’m eager to learn new things, and so
- <!-- - 🌱 I’m currently learning TKinter -->
- <!-- - 🔭 I’m currently working on my pdf editor Pyditor -->
+ - 🌱 I’m currently learning customtkinter
+ - 🔭 I’m currently working on my pdf editor PyDFCat
  - 👯 I’m looking forward to collaborate with other programming enthusiasts
  - 🥅 My Goals for 2023 are to contribute more to open source projecte
 
